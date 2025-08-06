@@ -21,7 +21,7 @@ Para evitar erros ao realizar requisições `fetch`, recomenda-se executar o fro
 
 ## 🧶 Instalação
 
-A pasta `node_modules` **não está incluída** no repositório.
+Os pacotes e a pasta `node_modules` **não está incluída** no repositório.
 
 Para rodar o servidor Node.js:
 
