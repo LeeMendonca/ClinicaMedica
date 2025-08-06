@@ -21,7 +21,8 @@ Para evitar erros ao realizar requisições `fetch`, recomenda-se executar o fro
 
 ## 🧶 Instalação
 
-Os pacotes e a pasta node_modules não estão incluídos no repositório, pois são gerados automaticamente ao instalar as dependências do projeto Node.js.
+Os pacotes e a pasta `node_modules` **não estão incluídos no repositório**, pois são gerados automaticamente ao instalar as dependências do projeto Node.js.
+
 
 Para rodar o servidor Node.js, siga os passos abaixo no terminal:
 
